@@ -1,3 +1,9 @@
+# Publicis.Sapient Front End Senior Associate Test
+
+## Task
+The task is described [here](./task/TASK.md) 
+
+## Bootstrapped
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
